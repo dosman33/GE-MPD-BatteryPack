@@ -34,7 +34,7 @@ I also designed and released the Gadget Hamper universal charging cradle to supp
 
 ![HTML formatted Inside log](/pics/mpd_charging_contacts.jpg)
 
-![HTML formatted Inside log](/pics/mpd_battery_cradle.jpg)
+![HTML formatted Inside log](/pics/mpd_battery_cradle.png)
 
 - https://www.thingiverse.com/thing:3670668
 - https://github.com/dosman33/Gadget-Hamper
