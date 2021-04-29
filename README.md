@@ -2,11 +2,11 @@
 
 These radios were made by GE/Ericsson, also sold as M/A Comm (now owned by Harris). They have enjoyed a long commercial service live and a long 2nd-hand market life as rugged ham radios on the 2 meter and 440cm bands. They have great quality audio and are solid enough to be used in self-defense, they are great spare radios to keep around.
 
-
-
 This battery pack design is a hybrid primarily designed to support two 18650 cells which perfectly matches the power requirements of this radio series. It is taller than the short packs and shorter than the tall packs. Included is a dual 18650 cell holder that fits inside the pack. You can also see there is a battery eliminator included as well.
 
 ![HTML formatted MPD Battery Suite log](/pics/mpd_battery_parts.jpg)
+
+![HTML formatted MPD Battery Suite log](/pics/mpd_battery_size.jpg)
 
 ## Designed for 18650 Li-Ion cells
 
@@ -34,6 +34,9 @@ I also designed and released the Gadget Hamper universal charging cradle to supp
 
 ![HTML formatted Inside log](/pics/mpd_charging_contacts.jpg)
 
+![HTML formatted Inside log](/pics/mpd_battery_cradle.jpg)
+
+- https://www.thingiverse.com/thing:3670668
 - https://github.com/dosman33/Gadget-Hamper
 - http://gadgethamper.org
 
