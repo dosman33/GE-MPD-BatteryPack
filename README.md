@@ -61,8 +61,8 @@ Also note that cells sold as 18650's can vary in length buy several millimeters 
 You may also build the battery with 4/5 sub-C NiCD's if you prefer to stick with your original charger. The battery pack base does fit the original charging equipment and I added holes for placement of the original charging tabs if you want to build the battery to work with existing infrastructure. Just disassemble an existing NiCD battery pack and borrow the internal wiring. You will have to use 4/5 cells like the short packs use (or something else that fits the shell).
 
 
-## Printinig notes
-Print the shell parts flat-side down with support. The battey eliminator should be right-side-up with support. On the battery rear half, the retaining clip is pretty weak and can break off or fails to print correctly sometimes, my experience is the fit of the assembled battery pack to the radio is pretty tight and doesn't really need the clip anyway. Prints best with a 0.4mm nozzle, printing with a 0.8mm looses some detail and things dont fit quite as well. I recommend printing in PET-G filament or another higher strength material
+## Printing notes
+Print the shell parts flat-side down with support. The battey eliminator should be right-side-up with support. On the battery rear half, the retaining clip is pretty weak and can break off or fails to print correctly sometimes, my experience is the fit of the assembled battery pack to the radio is pretty tight and doesn't really need the clip anyway. Prints best with a 0.4mm nozzle, printing with a 0.8mm looses some detail and things dont fit quite as well. I recommend printing in PET-G filament or another higher strength material.
 
 
 ## Other notes, errata:
