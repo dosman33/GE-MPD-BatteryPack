@@ -3,14 +3,17 @@ Made by GE/Ericsson, also sold as M/A Comm (now owned by Harris)
 
 The battery is a hybrid primarily designed to support two 18650 cells which perfectly matches the power requirements of this radio series. It is taller than the short packs and shorter than the tall packs. Included is a dual 18650 cell holder that fits inside the pack. You can also see there is a battery eliminator included as well.
 
-![HTML formatted MPD Battery Suite log](/![HTML formatted Gadget-Hamper log](/gadget_hamper001.jpg))
-
+![HTML formatted MPD Battery Suite log](/mpd_battery_parts.jpg)
 
 ## Designed for 18650 Li-Ion cells
 
 The battery shell snaps together and is designed to be servicable. It accepts a standard on/off switch on the front panel, I *think* the original battery on/off switch will fit if you are borrowing parts from old packs. I've been using one of my prototype batteries for a couple of years now with no issues. 
 
 There are holes on the back side of the pack near the bottom I use for adding recharginig contacts (bare wire threaded through the holes) that connect to a cradle charger. I intend to do more work on the design so the charging contacts are more recessed, but for now it works. I also wanted to add a DC jack to the battery as well for recharging but I haven't had time for that yet. 
+
+![HTML formatted Front and back log](/mpd_battery_front-back.jpg)
+![HTML formatted Inside log](/mpd_battery-inside.jpg)
+
 
 ## Charge controller, electronics?
 Li-Ion charge control boards are now plentiful from China, you need a "2S 18650 charger" pcb board for 7.2V. I recommend putting it inside the battery pack as there is room, but you can save the expense and put it in the charging cradle instead if you want. This way you only need one charge controller board for all your MPD battery packs.
