@@ -4,7 +4,7 @@ These radios were made by GE/Ericsson, also sold as M/A Comm (now owned by Harri
 
 
 
-The battery is a hybrid primarily designed to support two 18650 cells which perfectly matches the power requirements of this radio series. It is taller than the short packs and shorter than the tall packs. Included is a dual 18650 cell holder that fits inside the pack. You can also see there is a battery eliminator included as well.
+This battery pack design is a hybrid primarily designed to support two 18650 cells which perfectly matches the power requirements of this radio series. It is taller than the short packs and shorter than the tall packs. Included is a dual 18650 cell holder that fits inside the pack. You can also see there is a battery eliminator included as well.
 
 ![HTML formatted MPD Battery Suite log](/pics/mpd_battery_parts.jpg)
 
@@ -38,10 +38,12 @@ I also designed and released the Gadget Hamper universal charging cradle to supp
 - http://gadgethamper.org
 
 
-## Wiring them up and 18650 lengths
-See the photos for wiring details. The on-off switch is wired in series with the positive battery lead as the original batteries were. There is another part that just shorts two contacts out on the radio. The radio takes two positive leads, this powers the encryption key memory. There is a slot in the bottom of the cell holder that accepts a common nickel battery tab across the bottom as shown. 
+## Wiring them up and 18650 size variations
+See the photos for wiring details, there are holes for bare copper wire to create battery contacts in the cell holder. There is a slot in the bottom of the cell holder that accepts a common nickel battery tab across the bottom as shown. 
 
-Also note that 18650 cells vary in length despite the fact this should not happen. Most 18650 cells have an over-current protection circuit on one end, and some 18650's are naked with no protection (required for vapes). I recommend using 18650 cells with current regulators. Even with these there are variations in length by as a few millimeters. If your cells are too short to make electrical just put something between the nickle battery tabs and the bottom of the cell holder until it makes solid contact with the cell. Here you can see I'm using stripped wire sheathing as a spring of sorts. Works fine to maintains solid contact at all times. The cell holder is designed to flex some at the ends as well.
+The on-off switch is wired in series with the positive battery lead (this is how the original batteries operated). There is wire-jumper on top of the pack which shorts two contacts out on the radio to enable the internal speaker. The radio accepts two positive contacts, the second is always hot and powers the encryption key memory which is not needed for most users.
+
+Also note that cells sold as 18650's can vary in length buy several millimeters despite the fact this should not happen. Most 18650 cells have an over-current protection circuit on one end, and some 18650's are naked with no protection (required for vapes). I recommend using 18650 cells with current regulators. Even with these there are variations in length by as a few millimeters. If your cells are too short to make electrical contact just put something between the nickle battery tabs and the bottom of the cell holder until it makes solid contact with the cell. Here you can see I'm using stripped wire sheathing as a spring of sorts. Works fine to maintains solid contact at all times. The cell holder is designed to flex some at the ends as well.
 
 ![HTML formatted Cell holder log](/pics/18650_cell_holder03.jpg)
 
