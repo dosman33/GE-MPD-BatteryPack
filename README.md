@@ -12,6 +12,7 @@ The battery shell snaps together and is designed to be servicable. It accepts a 
 There are holes on the back side of the pack near the bottom I use for adding recharginig contacts (bare wire threaded through the holes) that connect to a cradle charger. I intend to do more work on the design so the charging contacts are more recessed, but for now it works. I also wanted to add a DC jack to the battery as well for recharging but I haven't had time for that yet. 
 
 ![HTML formatted Front and back log](/mpd_battery_front-back.jpg)
+
 ![HTML formatted Inside log](/mpd_battery-inside.jpg)
 
 
@@ -37,7 +38,7 @@ You may also build the battery with 4/5 sub-C NiCD's if you prefer to stick with
 
 
 ## Printinig notes
-Print the shell parts flat-side down with support. The battey eliminator should be right-side-up with support. On the battery rear half, the retaining clip is pretty weak and can break off or fails to print correctly sometimes, my experience is the fit of the assembled battery pack to the radio is pretty tight and doesn't really need the clip anyway.
+Print the shell parts flat-side down with support. The battey eliminator should be right-side-up with support. On the battery rear half, the retaining clip is pretty weak and can break off or fails to print correctly sometimes, my experience is the fit of the assembled battery pack to the radio is pretty tight and doesn't really need the clip anyway. Prints best with a 0.4mm nozzle, printing with a 0.8mm looses some detail and things dont fit quite as well. 
 
 
 ## Other notes, errata:
