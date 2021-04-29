@@ -21,6 +21,7 @@ There are holes on the back side of the pack near the bottom I use for adding re
 ![HTML formatted Inside log](/pics/mpd_battery-inside.jpg)
 
 The bottom has a ridge for easy gripping to separate the case halves:
+
 ![HTML formatted Inside log](/pics/mpd_battery_bottom.jpg)
 
 
@@ -42,8 +43,14 @@ See the photos for wiring details. The on-off switch is wired in series with the
 
 Also note that 18650 cells vary in length despite the fact this should not happen. Most 18650 cells have an over-current protection circuit on one end, and some 18650's are naked with no protection (required for vapes). I recommend using 18650 cells with current regulators. Even with these there are variations in length by as a few millimeters. If your cells are too short to make electrical just put something between the nickle battery tabs and the bottom of the cell holder until it makes solid contact with the cell. Here you can see I'm using stripped wire sheathing as a spring of sorts. Works fine to maintains solid contact at all times. The cell holder is designed to flex some at the ends as well.
 
+![HTML formatted Cell holder log](/pics/18650_cell_holder03.jpg)
 
-![HTML formatted Wiring Diagram log](/pics/mpd_battery_wiring_diagram.png)
+![HTML formatted Cell holder log](/pics/18650_cell_holder02.jpg)
+
+![HTML formatted Cell holder log](/pics/18650_cell_holder01.jpg)
+
+![HTML formatted Cell holder log](/pics/mpd_battery_wiring_diagram.png)
+
 
 ## "I don't need your new fangled battery technology, give me my NiCD's!!!"
 You may also build the battery with 4/5 sub-C NiCD's if you prefer to stick with your original charger. The battery pack base does fit the original charging equipment and I added holes for placement of the original charging tabs if you want to build the battery to work with existing infrastructure. Just disassemble an existing NiCD battery pack and borrow the internal wiring. You will have to use 4/5 cells like the short packs use (or something else that fits the shell).
