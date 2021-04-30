@@ -66,17 +66,14 @@ Print the shell parts flat-side down with support. The battey eliminator should 
 
 
 ## Other notes, errata:
-The "wings" that attach the battery pack to the radio have held up to a lot of abuse so far. The one pack in the above photos with the chipped wing happened just recently after a couple years of use (it broke while removed from the radio when I dropped something on it). You should still be gentle on them, a fall from height could possibly shatter the connector, but for normal wear and tear I trust them to work correctly.
+The "wings" that attach the battery pack to the radio have held up to a lot of abuse so far. You should still be gentle on them, a fall from height could possibly shatter the connector, but for normal wear and tear I trust them to work correctly.
 
 I designed a belt clip too which fits the D-clip retainer slot on the radio, however this is mostly for laughs. The original D-clips were steel and a plastic part that fits the same space is very weak, it can't hold up to much use before breaking. Can be useful if you're just hanging the radio somewhere out of the way though.
 
 
-
-
-TL;DR: This is a 3D printable battery pack 
-
 - The latest version of this project is always available here on GitHub: https://github.com/dosman33/GE-MPD-BatteryPack
-- This project is also on Thingiverse: 
+- This project is also on Thingiverse: https://www.thingiverse.com/thing:4844146
 
 
-This project is licensed under the CC BY-SA 4.0 license: https://creativecommons.org/licenses/by-sa/4.0/
+This project is licensed under the CC BY-SA 4.0 license:
+https://creativecommons.org/licenses/by-sa/4.0/
